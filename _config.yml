@@ -1,5 +1,5 @@
-title: CyberSentinel Porfolio of Cybersecurity Projects
-description: To showcase my mad skills to my employer.
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-plugins: jekyll-theme-midnight
+theme: jekyll-theme-midnight

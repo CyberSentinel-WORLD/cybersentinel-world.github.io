@@ -1,5 +1,6 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
+title: [CyberSentinel Porfolio of Cybersecurity Projects]
+description: [To showcase my mad skills to my employer.]
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-midnight
+plugins:
+- jekyll-theme-midnight

@@ -105,13 +105,13 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>CyberSentinel-World</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2025</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>California</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Red</dd>
 </dl>
 
 ```
